@@ -1,0 +1,232 @@
+#tb {
+  width: 1100px;
+}
+
+#label1 {
+  padding-right: 390px;
+}
+
+#label2 {
+  padding-right: 285px;
+}
+
+#label3 {
+  padding-right: 300px;
+}
+
+#d1 {
+  margin-bottom: 30px;
+}
+
+#btn-booking {
+  margin-right: 30px;
+}
+
+#tb-packageDetail {
+  width: 980px;
+  margin-left: 50px;
+}
+/*profile*/
+#profile_img {
+  width: 150px;
+  height: 150px;
+}
+
+#lb {
+  font-weight:bold;
+}
+
+.txt {
+  display:none;
+  margin-bottom:5px;
+}
+
+#btn-reject {
+  margin-left:10px;
+}
+
+#back {
+  margin:0 auto;
+}
+
+#dv1 {
+  padding:10px;
+  display:inline;
+}
+
+#dv2 {
+  padding:10px;
+  display:inline;
+  margin-left:30px;
+}
+
+#division {
+  width:200px;
+  height: 30px;
+}
+
+#btn-search {
+  width:200px;
+}
+
+#txt1 {
+  width: 200px;
+  height: 30px;
+}
+
+#lbl-packageName {
+  margin:0 10px 0 10px;
+}
+
+#txt-package {
+  margin-right:10px;
+}
+
+#btn1 {
+  margin-left: 10px;
+  margin-right:10px;
+}
+
+#tb1 {
+  margin-top:10px;
+}
+
+#lbl-name {
+  margin: 0 10px 0 10px;
+}
+
+#lbl-email {
+  margin-right: 10px;
+}
+
+#req-txt {
+  margin-right:20px;
+}
+
+#txt-address {
+  height:150px;
+}
+
+#form1 {
+  display: none;
+}
+#lbl-dropdown {
+  padding-right:20px;
+}
+
+.repDes {
+  margin-left: 10px;
+}
+
+.tab {
+  margin-bottom: 10px;
+}
+
+#back {
+  padding-left:300px;
+}
+
+.rej {
+  margin-left: 10px;
+  display: inline;
+}
+/* for profile from Admin\users\edit.blade.php */
+#profile-img {
+  width:150px;
+  height:90px;
+}
+/* for photo from Admin\users\show.blade.php */
+#photo-img {
+  width:150px;
+  height:100px;
+}
+/* frontend User\about.blade.php */
+#background-img {
+  background-image:url("../images/t1.jpg");
+}
+/* for footer User\footer.blade.php */
+#footer {
+  background-color:black;
+}
+/* for text from sign_in.blade.php */
+#sign-text {
+  color:white;
+}
+
+#side-img {
+  background-image:url("../images/about.jpg");
+}
+
+#map {
+  width : 500px;
+  height: 500px;
+}
+
+.dest {
+  margin-left: 220px;
+}
+
+.logout {
+  margin-left: 200px;
+}
+
+/* For Destination View More images */
+#des-img {
+	max-width:100%;
+	min-width:100%;
+	height:auto;
+}
+
+#word {
+  word-break:  break-word;
+}
+
+.pos {
+  position: relative;
+}
+  .pos img{
+    display: block;
+    max-width: 100%;
+    max-height: 250px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    border-radius: 5px;
+  }
+
+.rel {
+  padding: 20px;
+  position: absolute;
+  max-width: 100%;
+  height: 320px;
+  top: 0;
+}
+  .rel h3 {
+    font-size: 22px;
+    font-weight: 700;
+  }
+
+  .pos span {
+    position: absolute;
+    bottom: 20px;
+    right: 0;
+    display: inline-block;
+    background: #33313b;
+    padding: 4px 5px 4px 15px;
+    border-radius:20px 0 0 20px;
+    color: #fff;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+  }
+  .pos:hover span {
+    padding-right: 20px;
+    background: #f9ab30;
+  }
+
+  #blah {
+    max-width: 150px;
+    max-height: 150px;
+  }

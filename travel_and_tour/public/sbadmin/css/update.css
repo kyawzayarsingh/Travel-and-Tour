@@ -1,0 +1,128 @@
+.tea {
+  margin-left: 1000px;
+}
+
+.rej {
+  margin-left: 10px;
+}
+
+#dv1 {
+  padding:5px;
+  display:inline;
+}
+
+#dv2 {
+  padding:5px;
+  display:inline;
+}
+
+.repDes {
+  margin-left: 10px;
+}
+
+#photo-img {
+  width:150px;
+  height:100px;
+}
+
+#profile_img {
+  width: 150px;
+  height: 150px;
+}
+
+/*login*/
+.login-container{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.login-form-1{
+    padding: 5%;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+
+.login-form-1 h3{
+    text-align: center;
+    color: #333;
+}
+
+.login-form-2{
+    padding: 5%;
+    background: #1273eb;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+
+.login-form-2 h3 {
+    text-align: center;
+    color: #fff;
+}
+
+.login-container form {
+    padding: 10%;
+}
+
+.btnSubmit {
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+}
+
+.login-form-1 .btnSubmit {
+    font-weight: 600;
+    color: #fff;
+    background-color: #0062cc;
+}
+
+.login-form-2 .btnSubmit {
+    font-weight: 600;
+    color: #0062cc;
+    background-color: #fff;
+}
+
+.login-form-2 .ForgetPwd {
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.login-form-1 .ForgetPwd {
+    color: #0062cc;
+    font-weight: 600;
+    text-decoration: none;
+}
+.map {
+  width: 570px;
+  height: 500px;
+  position: relative;
+}
+.logo {
+  width:200px;
+  height:100px;
+  position: absolute;
+  left: 0;
+  left: 0;
+}
+
+#word {
+  word-break:  break-word;
+}
+
+.bod {
+  border: 1px solid black;
+}
+
+#blah {
+  max-width: 150px;
+  max-height: 150px;
+}
+
+.thumb{
+    margin: 10px 5px 0 0;
+    width: 100px;
+}
+
+.mar {
+  margin-left: 10px;
+}

@@ -1,0 +1,84 @@
+.fixed-top {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+  background: #FFFFFF;
+  height: 60px;
+  color: white;
+}
+
+a {
+  color: #7D7D7D;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
+
+a:hover {
+  color: #7D7D7D;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
+
+.content-wrapper {
+  min-height: calc(100vh - 56px);
+  padding-top: 7rem;
+  overflow-x: hidden;
+  background: transparent;
+}
+
+.card {
+    margin-top: 50px;
+}
+
+.card-body {
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+.card-img-top {
+  width:100%;
+}
+
+.notification {
+  background-color: #555;
+  color: white;
+  text-decoration: none;
+  position: relative;
+  display: inline-block;
+  border-radius: 2px;
+}
+
+.notification:hover {
+  background: red;
+}
+
+.notification .badgeRed {
+  position: absolute;
+  top: -10px;
+  right: -16px;
+  padding: 8px 16px;
+  border-radius: 50%;
+  background-color: red;
+  color: white;
+  font-size: 14px;
+}
+
+.notification .badgeGray {
+  position: absolute;
+  top: -10px;
+  right: -16px;
+  padding: 8px 16px;
+  border-radius: 50%;
+  background: gray;
+  color: white;
+  font-size: 14px;
+}
+
+.logout {
+  margin-left: 200px;
+  font-weight: 700;
+}
